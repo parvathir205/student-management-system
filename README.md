@@ -23,4 +23,4 @@ A responsive and interactive web-based Student Management System developed using
 
 ---
 
-## 📂 Project Structure
+
