@@ -19,7 +19,7 @@ A responsive and interactive web-based Student Management System developed using
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ---
 
